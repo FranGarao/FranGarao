@@ -1,5 +1,45 @@
 ### Hi there 👋
 
+## Francisco Garao 🙏
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/01naveenv/)
+[![](https://img.shields.io/badge/Telegram-naveenv01-blue)](https://t.me/naveenv01)
+[![](https://img.shields.io/badge/Leetcode-naveenverma-brightgreen)](https://leetcode.com/naveenverma/)
+[![](https://img.shields.io/badge/Gmail-01naveenv%40gmail.com-red)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/naveenverma1/count.svg" />
+</p>
+
+
+
+```javascript
+const Fran = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+       frontEnd: {
+            js: ["Angular", "React"],
+        },
+       backEnd: {
+            js: ["node", "express", "adonis"],
+        },
+        databases: ["mongo", "MySql", "Microsoft SQL Server"],
+        misc: ["Firebase"]
+    },
+    architecture: ["microservices", "MVC"],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+[![Fran's github stats](https://github-readme-stats.vercel.app/api?username=naveenverma1&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+⭐️ From [naveenverma1](https://github.com/naveenverma1)
+
+
+
 <h2> Hi, I'm Francisco Garao! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
