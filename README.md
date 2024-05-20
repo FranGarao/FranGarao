@@ -1,6 +1,6 @@
 <h2> Hi, I'm Francisco Garao! </h2>
 <!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
-<p><em>Studying Software Engineering in <a href="https://uai.edu.ar">Universidad Abierta Interamericana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://portal.hospitaldeclinicas.uba.ar">Hospital de Clinicas UBA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Studying Software Engineering in <a href="https://uai.edu.ar" target="_blank">Universidad Abierta Interamericana</a>  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://portal.hospitaldeclinicas.uba.ar" target="_blank">Hospital de Clinicas UBA</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub Fran](https://img.shields.io/github/followers/FranGarao?label=follow&style=social)](https://github.com/FranGarao)
@@ -14,7 +14,7 @@ const FranGarao = {
   code: [Javascript, Typescript, HTML, CSS, SQL],
   tools: [React, AngularJs, Node, MicrosoftSQLServer, MySQL],
   architecture: ["microservices", "mvc"],
-  learning: ["docker", "SQL"]
+  learning: ["docker", "kubernetes", "deepening SQL", "english"]
 }
 ```
 
