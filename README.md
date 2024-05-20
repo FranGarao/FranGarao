@@ -12,9 +12,13 @@
 const FranGarao = {
   pronouns: "he" | "him",
   code: {
-  backEnd: [Node, MySQL, "Microsoft SQL Server"],
-  frontEnd: [HTML, CSS, Typescript, Angular, React] 
-  }
+    backEnd: {
+      Node: [Express, Adonis],
+      SQL: [MySQL, "Microsoft SQL Server"],
+      NoSQL: [MongoDB]
+    },
+    frontEnd: [HTML, CSS, Typescript, Angular, React] 
+  },
   architecture: ["microservices", "mvc"],
   learning: ["docker", "kubernetes", "deepening SQL", "english"]
 }
