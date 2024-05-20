@@ -23,7 +23,7 @@ const FranGarao = {
   learning: ["docker", "kubernetes", "deepening SQL", "english"]
 }
 // *If you want to see some of my projects, I recommend you see the projects:
-//  limpio-sano-backendjs, limpio-sano-react, simon-decants-backendts.
+//  limpio-sano-back-js, SimonDecantsBack, limpio-sano-frontend, SimonDecants-Front.
 
 // *Since the rest of the repositories are study notes or projects that are too premature to show them
 ```
