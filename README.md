@@ -22,7 +22,9 @@ const FranGarao = {
   architecture: ["microservices", "mvc"],
   learning: ["docker", "kubernetes", "deepening SQL", "english"]
 }
-// *If you want to see some of my projects, I recommend you see the projects: limpio-sano-backendjs, limpio-sano-react, simon-decants-backendts.
+// *If you want to see some of my projects, I recommend you see the projects:
+//  limpio-sano-backendjs, limpio-sano-react, simon-decants-backendts.
+
 // *Since the rest of the repositories are study notes or projects that are too premature to show them
 ```
 
