@@ -1,5 +1,5 @@
 <h2> Hi, I'm Francisco Garao! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<!--<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"> -->
 <p><em>Studying Software Engineering in <a href="https://uai.edu.ar">Universidad Abierta Interamericana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full Stack Developer at <a href="https://portal.hospitaldeclinicas.uba.ar">Hospital de Clinicas UBA</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -18,7 +18,8 @@ const FranGarao = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Passionate about software development, enthusiastic about problem solving and eager to adopt new technologies and methodologies for continuous growth as a professional.</em>
+<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">--> 
+<em>Passionate about software development, enthusiastic about problem solving and eager to adopt new technologies and methodologies for continuous growth as a professional.</em>
 
 ---
 
