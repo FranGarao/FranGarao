@@ -11,8 +11,10 @@
 ```javascript
 const FranGarao = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, SQL],
-  tools: [React, AngularJs, Node, MicrosoftSQLServer, MySQL],
+  code: {
+  backEnd: [Node, MySQL, "Microsoft SQL Server"],
+  frontEnd: [HTML, CSS, Typescript, Angular, React] 
+  }
   architecture: ["microservices", "mvc"],
   learning: ["docker", "kubernetes", "deepening SQL", "english"]
 }
