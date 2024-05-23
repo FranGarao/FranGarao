@@ -14,6 +14,7 @@ const FranGarao = {
   code: {
     backEnd: {
       Node: [Express, Adonis],
+      ASP.NET: ["C#"],
       SQL: [MySQL, "Microsoft SQL Server"],
       NoSQL: MongoDB
     },
