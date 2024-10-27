@@ -1,76 +1,61 @@
 # 💀 Francisco Garao | AKA ShadowFox 💀
 
-> Pentester | Red Teamer | Caza Vulnerabilidades | Ingeniería Reversa
+> Pentester | Red Teamer | Vulnerability Hunter | Reverse Engineer
 
 ---
 
-### 💼 Perfil Profesional
+### 💼 Professional Profile
 
-🕵️‍♂️ Hacker ético apasionado por la seguridad ofensiva y la explotación de sistemas. Especializado en:
-- 🕸️ **OSINT** y obtención de información
-- 🔍 **Pentesting avanzado** en redes y aplicaciones
-- 🔧 **Red Teaming** y simulaciones de ataques
-- 🎛️ **Ingeniería inversa** y análisis de malware
+🕵️‍♂️ Ethical hacker passionate about offensive security and system exploitation. Specializing in:
+- 🕸️ **OSINT** and information gathering
+- 🔍 **Advanced Pentesting** in networks and applications
+- 🔧 **Red Teaming** and attack simulations
+- 🎛️ **Reverse Engineering** and malware analysis
 
-📚 **Estudiante de Ingeniería en Sistemas** en [Universidad FASTA](https://ufasta.edu.ar)  
-🧠 En constante aprendizaje sobre hacking ético, criptoanálisis y automatización en ciberseguridad.
+📚 **Software Engineering Student** at [Universidad FASTA](https://ufasta.edu.ar)  
+🧠 Continuously learning about ethical hacking, cryptanalysis, and automation in cybersecurity.
 
 ---
 
-### 🔧 Stack y Herramientas de Preferencia
+### 🔧 Stack and Preferred Tools
 
 ```yaml
 skills:
-  - name: Lenguajes
+  - name: Languages
     details: ["Python", "Bash", "JavaScript", "C#", "SQL"]
   - name: Hacking Tools
     details: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "Gobuster", "Aircrack-ng"]
   - name: Red Team
     details: ["Cobalt Strike", "Empire", "BloodHound", "Responder", "Impacket"]
-  - name: Infraestructura y Automatización
-    details: ["Docker", "Kubernetes", "AWS", "Terraform", "CI/CD con Jenkins"]
+  - name: Infrastructure and Automation
+    details: ["Docker", "Kubernetes", "AWS", "Terraform", "CI/CD with Jenkins"]
 
-📂 Proyectos Actuales
+
+📂 Current Projects
 
     RedTeam-Scripts
-    🔗 Scripts y herramientas personalizadas para operaciones de Red Team.
+    🔗 Custom scripts and tools for Red Team operations.
 
     OSINT-Gather
-    🔍 Automatización en OSINT para recolección de información y análisis en tiempo real.
+    🔍 Automated OSINT for real-time information gathering and analysis.
 
     MalwareAnalysis-Toolkit
-    🦠 Conjunto de herramientas para desensamblaje, análisis de comportamiento y detección de malware.
+    🦠 Toolkit for disassembly, behavior analysis, and malware detection.
 
-📜 Filosofía de Trabajo
+📜 Philosophy
 
-    "El hackeo no es romper, es explorar lo que otros ignoran."
+    "Hacking isn’t about breaking; it's about exploring what others overlook."
 
-🚀 Siempre Aprendiendo
+🚀 Always Learning
 
-Actualmente, profundizando en:
+Currently deepening knowledge in:
 
-    Seguridad en la nube ☁️
-    Machine learning aplicado a la ciberseguridad 🤖
-    Automatización de pruebas de penetración 🔄
+    Cloud Security ☁️
+    Machine Learning applied to cybersecurity 🤖
+    Penetration Testing Automation 🔄
 
-📬 ¿Hablamos?
+📬 Let's Connect
 
 🚨 Disclaimer 🚨
 
-Toda actividad es realizada con fines educativos y bajo un marco ético.
-
-
----
-
-### Explicación de la Estructura
-
-- **Introducción**: Resalta tu alias y perfil profesional en pocas palabras.
-- **Perfil Profesional**: Describe tu experiencia y enfoque en ciberseguridad ofensiva.
-- **Stack y Herramientas**: Usa YAML para dar un estilo más técnico y estructurado.
-- **Proyectos Actuales**: Detalla proyectos destacados y sus objetivos.
-- **Filosofía de Trabajo**: Incluye una cita que refleje tu enfoque en hacking ético.
-- **Siempre Aprendiendo**: Enumera áreas de estudio actuales para mostrar crecimiento.
-- **Contacto**: Incluye enlaces directos a GitHub y Gmail.
-- **Disclaimer**: Añade un recordatorio sobre el enfoque ético de tus actividades.
-
-Este diseño es minimalista y en tonos oscuros, ideal para un perfil de hacker ético profesional.
+All activities are conducted for educational purposes and within an ethical framework.
