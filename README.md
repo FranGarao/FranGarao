@@ -1,80 +1,76 @@
-<h2>¡Hola, soy Francisco Garao!</h2>
-<p><em>Estudiante de Ingeniería en Sistemas en <a href="https://ufasta.edu.ar" target="_blank">Universidad FASTA</a> 🎓<br>Pentester y Desarrollador Full Stack</em></p>
+# 💀 Francisco Garao | AKA ShadowFox 💀
 
-[![GitHub Fran](https://img.shields.io/github/followers/FranGarao?label=follow&style=social)](https://github.com/FranGarao)
-[![](https://img.shields.io/badge/Gmail-garaofrancisco%40gmail.com-red)](mailto:garaofrancisco@gmail.com)
+> Pentester | Red Teamer | Caza Vulnerabilidades | Ingeniería Reversa
 
 ---
 
-### Un poco sobre mí:
+### 💼 Perfil Profesional
 
-Soy un apasionado de la **ciberseguridad** y el **desarrollo de software**. Actualmente, trabajo en proyectos de **Pentesting** y **Red Teaming**, explorando vulnerabilidades y fortaleciendo aplicaciones y sistemas. Mi enfoque incluye la seguridad en aplicaciones web y móviles, y en la automatización de pruebas de seguridad para crear entornos más seguros.
+🕵️‍♂️ Hacker ético apasionado por la seguridad ofensiva y la explotación de sistemas. Especializado en:
+- 🕸️ **OSINT** y obtención de información
+- 🔍 **Pentesting avanzado** en redes y aplicaciones
+- 🔧 **Red Teaming** y simulaciones de ataques
+- 🎛️ **Ingeniería inversa** y análisis de malware
 
-```javascript
-const FranGarao = {
-  pronombres: "él" | "él",
-  habilidades: {
-    pentesting: ["reconocimiento", "explotación de vulnerabilidades", "post-explotación", "reportes"],
-    herramientas: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "OSINT tools"],
-    backEnd: ["Node.js", "Express", "ASP.NET", "Python"],
-    frontEnd: ["HTML", "CSS", "JavaScript", "React", "Angular"],
-    basesDeDatos: ["MySQL", "MongoDB", "SQL Server"],
-  },
-  aprendiendo: ["desarrollo de exploits", "ingeniería inversa", "seguridad en la nube"],
-  intereses: ["metodologías de hacking ético", "automatización de pruebas de seguridad", "criptoanálisis"]
-};
-GPT
-
-Aquí tienes una versión renovada de tu README en GitHub, enfocada en tu rol como pentester y el cambio a la Universidad FASTA. Esta versión también resalta tus habilidades en ciberseguridad y tus proyectos relacionados:
-
-markdown
-
-<h2>¡Hola, soy Francisco Garao!</h2>
-<p><em>Estudiante de Ingeniería en Sistemas en <a href="https://ufasta.edu.ar" target="_blank">Universidad FASTA</a> 🎓<br>Pentester y Desarrollador Full Stack</em></p>
-
-[![GitHub Fran](https://img.shields.io/github/followers/FranGarao?label=follow&style=social)](https://github.com/FranGarao)
-[![](https://img.shields.io/badge/Gmail-garaofrancisco%40gmail.com-red)](mailto:garaofrancisco@gmail.com)
+📚 **Estudiante de Ingeniería en Sistemas** en [Universidad FASTA](https://ufasta.edu.ar)  
+🧠 En constante aprendizaje sobre hacking ético, criptoanálisis y automatización en ciberseguridad.
 
 ---
 
-### Un poco sobre mí:
+### 🔧 Stack y Herramientas de Preferencia
 
-Soy un apasionado de la **ciberseguridad** y el **desarrollo de software**. Actualmente, trabajo en proyectos de **Pentesting** y **Red Teaming**, explorando vulnerabilidades y fortaleciendo aplicaciones y sistemas. Mi enfoque incluye la seguridad en aplicaciones web y móviles, y en la automatización de pruebas de seguridad para crear entornos más seguros.
+```yaml
+skills:
+  - name: Lenguajes
+    details: ["Python", "Bash", "JavaScript", "C#", "SQL"]
+  - name: Hacking Tools
+    details: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "Gobuster", "Aircrack-ng"]
+  - name: Red Team
+    details: ["Cobalt Strike", "Empire", "BloodHound", "Responder", "Impacket"]
+  - name: Infraestructura y Automatización
+    details: ["Docker", "Kubernetes", "AWS", "Terraform", "CI/CD con Jenkins"]
 
-```javascript
-const FranGarao = {
-  pronombres: "él" | "él",
-  habilidades: {
-    pentesting: ["reconocimiento", "explotación de vulnerabilidades", "post-explotación", "reportes"],
-    herramientas: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "OSINT tools"],
-    backEnd: ["Node.js", "Express", "ASP.NET", "Python"],
-    frontEnd: ["HTML", "CSS", "JavaScript", "React", "Angular"],
-    basesDeDatos: ["MySQL", "MongoDB", "SQL Server"],
-  },
-  aprendiendo: ["desarrollo de exploits", "ingeniería inversa", "seguridad en la nube"],
-  intereses: ["metodologías de hacking ético", "automatización de pruebas de seguridad", "criptoanálisis"]
-};
+📂 Proyectos Actuales
 
-Proyectos destacados:
+    RedTeam-Scripts
+    🔗 Scripts y herramientas personalizadas para operaciones de Red Team.
 
-    🛡️ Pentesting Labs: Repositorio de labs de práctica en pentesting, donde exploro técnicas avanzadas de explotación y pruebas de seguridad.
-    🔍 OSINT Tools: Scripts de automatización para el reconocimiento y la obtención de información de fuentes abiertas.
-    🖥️ Red Team Scripts: Scripts personalizados para pruebas de seguridad en entornos empresariales.
+    OSINT-Gather
+    🔍 Automatización en OSINT para recolección de información y análisis en tiempo real.
 
-Contacto
+    MalwareAnalysis-Toolkit
+    🦠 Conjunto de herramientas para desensamblaje, análisis de comportamiento y detección de malware.
 
-Si tienes alguna consulta sobre ciberseguridad o quieres colaborar en proyectos de hacking ético, ¡contáctame! Estoy siempre abierto a nuevas oportunidades y desafíos en el campo de la seguridad.
+📜 Filosofía de Trabajo
 
-<em>“La seguridad no es un producto, es un proceso continuo.”</em>
+    "El hackeo no es romper, es explorar lo que otros ignoran."
 
-⭐️ From @FranGarao
+🚀 Siempre Aprendiendo
+
+Actualmente, profundizando en:
+
+    Seguridad en la nube ☁️
+    Machine learning aplicado a la ciberseguridad 🤖
+    Automatización de pruebas de penetración 🔄
+
+📬 ¿Hablamos?
+
+🚨 Disclaimer 🚨
+
+Toda actividad es realizada con fines educativos y bajo un marco ético.
 
 
-### Explicación
+---
 
-1. **Perfil Profesional**: Destaca tu rol como pentester y estudiante en la Universidad FASTA.
-2. **Skills**: Refleja tus habilidades en herramientas y tecnologías clave de seguridad y desarrollo.
-3. **Proyectos Destacados**: Incluye proyectos específicos, ideales para mostrar tu portafolio y habilidades en GitHub.
-4. **Cita Inspiradora**: Un cierre motivador relacionado con tu campo.
+### Explicación de la Estructura
 
-Con esta versión podrás mostrar tu experiencia y enfoque en ciberseguridad de manera clara y profesional.
+- **Introducción**: Resalta tu alias y perfil profesional en pocas palabras.
+- **Perfil Profesional**: Describe tu experiencia y enfoque en ciberseguridad ofensiva.
+- **Stack y Herramientas**: Usa YAML para dar un estilo más técnico y estructurado.
+- **Proyectos Actuales**: Detalla proyectos destacados y sus objetivos.
+- **Filosofía de Trabajo**: Incluye una cita que refleje tu enfoque en hacking ético.
+- **Siempre Aprendiendo**: Enumera áreas de estudio actuales para mostrar crecimiento.
+- **Contacto**: Incluye enlaces directos a GitHub y Gmail.
+- **Disclaimer**: Añade un recordatorio sobre el enfoque ético de tus actividades.
+
+Este diseño es minimalista y en tonos oscuros, ideal para un perfil de hacker ético profesional.
