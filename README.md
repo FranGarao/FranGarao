@@ -47,8 +47,11 @@ API Security Automation 🔄
 Machine Learning applications for web vulnerability detection 🤖
 OAuth, OpenID, and API Gateway security ☁️
 ```
-📬 Let's Connect
+📬 Let's Connect 
+
 [Linkedin](https://www.linkedin.com/in/agustin-francisco-garao-6041b1331)
 [GitHub](https://github.com/FranGarao)
+
 🚨 Disclaimer 🚨
+
 All activities are conducted for educational purposes and within an ethical framework.
