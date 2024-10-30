@@ -1,18 +1,20 @@
 # 💀 Francisco Garao | AKA BullD0z3r 💀
 
-    API Hacker | Web Security Specialist | Pentester | Vulnerability Hunter
+API Hacker | Web Security Specialist | Pentester | Vulnerability Hunter
 
 💼 Professional Profile
 
-🕵️‍♂️ Ethical hacker especializado en la seguridad de APIs y aplicaciones web, enfocado en la identificación de vulnerabilidades críticas y explotación de fallos en interfaces de programación. Experto en:
+🕵️‍♂️ Ethical hacker specialized in API and web application security, focused on identifying critical vulnerabilities and exploiting flaws in programming interfaces. Expert in:
 
-    🌐 Seguridad de APIs y controles de acceso
-    🔍 Pentesting Avanzado en entornos web y aplicaciones móviles
-    🧩 Explotación de Vulnerabilidades Web como inyecciones y deserialización
-    🔧 Automatización en Seguridad para evaluaciones continuas
+rust
 
-📚 Estudiante de Ingeniería en Software en Universidad FASTA
-🧠 Apasionado por el aprendizaje en hacking ético, analítica de seguridad y mejoras en automatización para ciberseguridad.
+🌐 API Security and Access Controls
+🔍 Advanced Pentesting in web and mobile environments
+🧩 Exploiting Web Vulnerabilities like injection and deserialization
+🔧 Security Automation for continuous assessments
+
+📚 Software Engineering Student at Universidad FASTA
+🧠 Passionate about learning ethical hacking, security analytics, and automation improvements in cybersecurity.
 🔧 Stack and Preferred Tools
 
 ```yaml
@@ -29,10 +31,10 @@ skills:
 📂 Current Projects
 
     API-Security-Toolkit
-    🔐 Colección de scripts y herramientas para pruebas de seguridad en APIs.
+    🔐 Collection of scripts and tools for API security testing.
 
     Web-Vuln-Scanner
-    🔍 Explorador automatizado para detectar y explotar vulnerabilidades web comunes.
+    🔍 Automated scanner for detecting and exploiting common web vulnerabilities.
 
 📜 Philosophy
 
@@ -40,13 +42,15 @@ skills:
 
 🚀 Always Learning
 
-Actualmente profundizando en:
+Currently focused on:
 
-    API Security Automation 🔄
-    Machine Learning applications for web vulnerability detection 🤖
-    OAuth, OpenID, y seguridad en API Gateways ☁️
+rust
+
+API Security Automation 🔄
+Machine Learning applications for web vulnerability detection 🤖
+OAuth, OpenID, and API Gateway security ☁️
 
 📬 Let's Connect
 
 🚨 Disclaimer 🚨
-Todas las actividades se realizan con fines educativos y dentro de un marco ético.
+All activities are conducted for educational purposes and within an ethical framework.
