@@ -1,61 +1,52 @@
-# 💀 Francisco Garao | AKA ShadowFox 💀
+💀 Francisco Garao | AKA BullD0z3r 💀
 
-> Pentester | Red Teamer | Vulnerability Hunter | Reverse Engineer
+    API Hacker | Web Security Specialist | Pentester | Vulnerability Hunter
 
----
+💼 Professional Profile
 
-### 💼 Professional Profile
+🕵️‍♂️ Ethical hacker especializado en la seguridad de APIs y aplicaciones web, enfocado en la identificación de vulnerabilidades críticas y explotación de fallos en interfaces de programación. Experto en:
 
-🕵️‍♂️ Ethical hacker passionate about offensive security and system exploitation. Specializing in:
-- 🕸️ **OSINT** and information gathering
-- 🔍 **Advanced Pentesting** in networks and applications
-- 🔧 **Red Teaming** and attack simulations
-- 🎛️ **Reverse Engineering** and malware analysis
+    🌐 Seguridad de APIs y controles de acceso
+    🔍 Pentesting Avanzado en entornos web y aplicaciones móviles
+    🧩 Explotación de Vulnerabilidades Web como inyecciones y deserialización
+    🔧 Automatización en Seguridad para evaluaciones continuas
 
-📚 **Software Engineering Student** at [Universidad FASTA](https://ufasta.edu.ar)  
-🧠 Continuously learning about ethical hacking, cryptanalysis, and automation in cybersecurity.
-
----
-
-### 🔧 Stack and Preferred Tools
+📚 Estudiante de Ingeniería en Software en Universidad FASTA
+🧠 Apasionado por el aprendizaje en hacking ético, analítica de seguridad y mejoras en automatización para ciberseguridad.
+🔧 Stack and Preferred Tools
 
 ```yaml
 skills:
   - name: Languages
-    details: ["Python", "Bash", "JavaScript", "C#", "SQL"]
+    details: ["Python", "JavaScript", "SQL", "Bash"]
   - name: Hacking Tools
-    details: ["Metasploit", "Burp Suite", "Nmap", "Wireshark", "Gobuster", "Aircrack-ng"]
-  - name: Red Team
-    details: ["Cobalt Strike", "Empire", "BloodHound", "Responder", "Impacket"]
+    details: ["Burp Suite", "Postman", "Nmap", "OWASP ZAP", "SQLmap"]
+  - name: API Pentesting
+    details: ["APISecurity.io", "Insomnia", "Auth0", "Swagger"]
   - name: Infrastructure and Automation
-    details: ["Docker", "Kubernetes", "AWS", "Terraform", "CI/CD with Jenkins"]
-
-
+    details: ["Docker", "Kubernetes", "AWS", "CI/CD pipelines with Jenkins"]
+```
 📂 Current Projects
 
-    RedTeam-Scripts
-    🔗 Custom scripts and tools for Red Team operations.
+    API-Security-Toolkit
+    🔐 Colección de scripts y herramientas para pruebas de seguridad en APIs.
 
-    OSINT-Gather
-    🔍 Automated OSINT for real-time information gathering and analysis.
-
-    MalwareAnalysis-Toolkit
-    🦠 Toolkit for disassembly, behavior analysis, and malware detection.
+    Web-Vuln-Scanner
+    🔍 Explorador automatizado para detectar y explotar vulnerabilidades web comunes.
 
 📜 Philosophy
 
-    "Hacking isn’t about breaking; it's about exploring what others overlook."
+    "Hacking isn’t about breaking; it's about finding what others miss."
 
 🚀 Always Learning
 
-Currently deepening knowledge in:
+Actualmente profundizando en:
 
-    Cloud Security ☁️
-    Machine Learning applied to cybersecurity 🤖
-    Penetration Testing Automation 🔄
+    API Security Automation 🔄
+    Machine Learning applications for web vulnerability detection 🤖
+    OAuth, OpenID, y seguridad en API Gateways ☁️
 
 📬 Let's Connect
 
 🚨 Disclaimer 🚨
-
-All activities are conducted for educational purposes and within an ethical framework.
+Todas las actividades se realizan con fines educativos y dentro de un marco ético.
