@@ -1,13 +1,12 @@
 # 💀 Francisco Garao | AKA BullD0z3r 💀
-
+```
 API Hacker | Web Security Specialist | Pentester | Vulnerability Hunter
-
+```
 💼 Professional Profile
 
 🕵️‍♂️ Ethical hacker specialized in API and web application security, focused on identifying critical vulnerabilities and exploiting flaws in programming interfaces. Expert in:
 
-rust
-
+```
 🌐 API Security and Access Controls
 🔍 Advanced Pentesting in web and mobile environments
 🧩 Exploiting Web Vulnerabilities like injection and deserialization
@@ -16,7 +15,7 @@ rust
 📚 Software Engineering Student at Universidad FASTA
 🧠 Passionate about learning ethical hacking, security analytics, and automation improvements in cybersecurity.
 🔧 Stack and Preferred Tools
-
+```
 ```yaml
 skills:
   - name: Languages
@@ -43,13 +42,11 @@ skills:
 🚀 Always Learning
 
 Currently focused on:
-
-rust
-
+```
 API Security Automation 🔄
 Machine Learning applications for web vulnerability detection 🤖
 OAuth, OpenID, and API Gateway security ☁️
-
+```
 📬 Let's Connect
 
 🚨 Disclaimer 🚨
