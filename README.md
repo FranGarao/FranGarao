@@ -1,57 +1,25 @@
-# 💀 Francisco Garao | AKA BullD0z3r 💀
-```
-API Hacker | Web Security Specialist | Pentester | Vulnerability Hunter
-```
-💼 Professional Profile
+👨‍💻 Pentester Jr
+🔒 Apasionado por la ciberseguridad y la programación. Actualmente preparándome para la certificación EJPT con la meta de obtener el OSCP. Cursando la Licenciatura en Ciberseguridad en la Universidad de Palermo.
 
-🕵️‍♂️ Ethical hacker specialized in API and web application security, focused on identifying critical vulnerabilities and exploiting flaws in programming interfaces. Expert in:
+🛠️ Habilidades
 
-```
-🌐 API Security and Access Controls
-🔍 Advanced Pentesting in web and mobile environments
-🧩 Exploiting Web Vulnerabilities like injection and deserialization
-🔧 Security Automation for continuous assessments
+💻 Lenguajes de Programación: Python, JavaScript, Bash, SQL, C#  
+🔍 Herramientas de Ciberseguridad: [Ej.: Nmap, Burp Suite, Metasploit, etc.]
 
-📚 Software Engineering Student at Universidad FASTA
-🧠 Passionate about learning ethical hacking, security analytics, and automation improvements in cybersecurity.
-🔧 Stack and Preferred Tools
-```
-```yaml
-skills:
-  - name: Languages
-    details: ["Python", "JavaScript", "SQL", "Bash"]
-  - name: Hacking Tools
-    details: ["Burp Suite", "Postman", "Nmap", "OWASP ZAP", "SQLmap"]
-  - name: API Pentesting
-    details: ["APISecurity.io", "Insomnia", "Auth0", "Swagger"]
-  - name: Infrastructure and Automation
-    details: ["Docker", "Kubernetes", "AWS", "CI/CD pipelines with Jenkins"]
-```
-📂 Current Projects
+🎓 Educación y Certificaciones
 
-    API-Security-Toolkit
-    🔐 Collection of scripts and tools for API security testing.
+Cursando la Licenciatura en Ciberseguridad en la Universidad de Palermo  
+Preparándome para la certificación EJPT  
+Objetivo: Certificación OSCP
 
-    Web-Vuln-Scanner
-    🔍 Automated scanner for detecting and exploiting common web vulnerabilities.
 
-📜 Philosophy
+📂 Proyectos
+Colaboración en herramientas de ciberseguridad de código abierto
 
-    "Hacking isn’t about breaking; it's about finding what others miss."
 
-🚀 Always Learning
+📬 Contacto
+Conéctate conmigo en LinkedIn, GitHub, o por email en [zombit333@gmail.com]
 
-Currently focused on:
-```
-API Security Automation 🔄
-Machine Learning applications for web vulnerability detection 🤖
-OAuth, OpenID, and API Gateway security ☁️
-```
-📬 Let's Connect 
 
-[Linkedin](https://www.linkedin.com/in/agustin-francisco-garao-6041b1331)
-[GitHub](https://github.com/FranGarao)
+Nota Legal: Todas mis actividades se realizan dentro de un marco ético y con fines educativos.
 
-🚨 Disclaimer 🚨
-
-All activities are conducted for educational purposes and within an ethical framework.
