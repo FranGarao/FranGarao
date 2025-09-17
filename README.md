@@ -1,25 +1,65 @@
-👨‍💻 Pentester Jr
-🔒 Apasionado por la ciberseguridad y la programación. Actualmente preparándome para la certificación EJPT con la meta de obtener el OSCP. Cursando la Licenciatura en Ciberseguridad en la Universidad de Palermo.
+# 👋 Hey, I’m Francisco Garao (aka R1KT0)
 
-🛠️ Habilidades
+💻 **Software Engineer (Self-taught)** • 🚀 Full-Stack Development • 🔐 Cybersecurity & DevSecOps • ☁️ Cloud Enthusiast
 
-💻 Lenguajes de Programación: Python, JavaScript, Bash, SQL, C#  
-🔍 Herramientas de Ciberseguridad: [Ej.: Nmap, Burp Suite, Metasploit, etc.]
+---
 
-🎓 Educación y Certificaciones
+## 🧑‍💻 About Me
+- 🔹 I’m 23 y/o, autodidacta & passionate about tech.  
+- 🔹 I work as a **Full-Stack Developer** at **Hospital de Clínicas (UBA)**.  
+- 🔹 Freelancer since 2023 → built **5 end-to-end projects** solo + contributed as contractor on **2 mobile apps** (backend + DB).  
+- 🔹 Currently building **Biddo**: an **auctions marketplace** with a mix of *MercadoLibre + Tinder + Discord vibes*.  
+- 🔹 My philosophy: **Development + Security first**. I love creating software that is not only functional, but also **secure & scalable**.  
 
-Cursando la Licenciatura en Ciberseguridad en la Universidad de Palermo  
-Preparándome para la certificación EJPT  
-Objetivo: Certificación OSCP
+---
 
+## 🛠️ Tech Stack
 
-📂 Proyectos
-Colaboración en herramientas de ciberseguridad de código abierto
+**Languages**  
+`C#` • `TypeScript` • `Python` • `SQL` • `C`
 
+**Frontend**  
+`React` • `React Native (Expo)` • `Angular` • `Next.js`
 
-📬 Contacto
-Conéctate conmigo en LinkedIn, GitHub, o por email en [zombit333@gmail.com]
+**Backend**  
+`Node.js` • `NestJS` • `.NET` • `Java (Spring Boot)`
 
+**Databases**  
+`PostgreSQL` • `SQL Server` • `MySQL` • `MongoDB`
 
-Nota Legal: Todas mis actividades se realizan dentro de un marco ético y con fines educativos.
+**DevOps / Cloud**  
+`Docker` • `Kubernetes` • `AWS` • `NGINX` • `CI/CD`
 
+**Security / Tools**  
+`Burp Suite` • `Metasploit` • `OWASP` • `SIEM` • `Pentesting`
+
+---
+
+## 🌟 Featured Projects
+
+- **Biddo Marketplace** → Mobile app for auctions with swipe, chat, escrow & karma.  
+  *(Frontend RN, Backend .NET, DB PostgreSQL – WIP, in prod soon)*  
+- **Retro Portfolio** → My personal portfolio with i18n, retro vibes & animations.  
+  [🔗 View Online](https://fran.dev.example.com) • [💻 Code](https://github.com/R1KT0/portfolio)  
+- **UBA – Hospital de Clínicas** → Full-Stack dev (Angular + Node.js + MSSQL). Private repo, but you can visit [🔗 the portal](https://portal.hospitaldeclinicas.uba.ar).  
+- **Freelance Projects** → 5 solo projects (end-to-end), 2 mobile apps as backend contractor.  
+- **Security Tools Pack** → Basic pentesting / DevSecOps utilities (private for now).  
+
+---
+
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=R1KT0&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R1KT0&layout=compact&theme=radical)
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [Portfolio](https://fran.dev.example.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/francisco-garao)  
+- 📧 garaofrancisco@gmail.com  
+
+---
+
+✨ *“Building secure & scalable software, one project at a time.”*
