@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Francisco Garao (aka R1KT0)
+# 👋 Hey, I’m Francisco Garao
 
 💻 **Software Engineer (Self-taught)** • 🚀 Full-Stack Development • 🔐 Cybersecurity & DevSecOps • ☁️ Cloud Enthusiast
 
