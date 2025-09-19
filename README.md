@@ -22,7 +22,7 @@
 `React` • `React Native (Expo)` • `Angular` • `Next.js`
 
 **Backend**  
-`Node.js` • `NestJS` • `.NET` • `Java (Spring Boot)`
+`Node.js` • `NestJS` • `.NET`
 
 **Databases**  
 `PostgreSQL` • `SQL Server` • `MySQL` • `MongoDB`
